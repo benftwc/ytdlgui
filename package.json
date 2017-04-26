@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/benftwc/ytdlgui/issues"
   },
-  "homepage": "https://github.com/benftwc/ytdlgui#readme"
+  "homepage": "https://github.com/benftwc/ytdlgui#readme",
+  "dependencies": {
+    "ytdl-core": "^0.13.1"
+  }
 }
