@@ -1,0 +1,23 @@
+{
+  "name": "ytdl",
+  "version": "1.0.0",
+  "description": "Youtube-dl GUI",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benftwc/ytdlgui.git"
+  },
+  "keywords": [
+    "ytdl",
+    "youtube-dl"
+  ],
+  "author": "Benjamin Cassinat <benftwc@gmail.com> (http://www.benftwc.fr/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benftwc/ytdlgui/issues"
+  },
+  "homepage": "https://github.com/benftwc/ytdlgui#readme"
+}
